@@ -46,7 +46,7 @@ export default function Login() {
           />
         </div>
 
-        <div className="relative z-10 w-full max-w-[390px] mx-auto">
+        <div className="relative z-10 w-full max-w-97.5 mx-auto">
           {/* Brand */}
           <div className="text-center mb-7">
             <div className="flex justify-center mb-2">
